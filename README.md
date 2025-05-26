@@ -99,6 +99,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img alt="Arthur’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Braganca1&theme=dark&show_icons=true&count_private=true&hide=contribs,issues&line_height=31" />
+  <img alt="Arthur’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Braganca1&theme=dark&show_icons=true&count_private=true&hide=contribs,issues&line_height=30" />
   <img alt="Top Languages"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braganca1&theme=dark&layout=compact&line_height=31" />
 </div>
