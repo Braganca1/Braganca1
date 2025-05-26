@@ -1,3 +1,7 @@
+<!--
+  README.md for Arthur Bragança’s GitHub profile
+-->
+
 <div align="center">
   <h1>Hi 👋, I’m Arthur Bragança</h1>
   <h3>A Computer Engineering undergrad at Instituto Militar de Engenharia (IME) in Rio de Janeiro, Brazil</h3>
@@ -8,15 +12,15 @@
 
 <!-- Social links -->
 <p align="center">
-  <a href="https://linkedin.com/in/arthurbraganca" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="arthurbraganca" height="30" width="40" />
+  <a href="https://linkedin.com/in/arthurbraganca" target="_blank" rel="noreferrer">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" />
   </a>
-  <a href="mailto:arthurbraganca1@gmail.com" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-         alt="arthurbraganca1@gmail.com" height="30" width="40" />
+  <a href="mailto:arthurbraganca1@gmail.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Gmail" />
   </a>
 </p>
 
@@ -65,6 +69,7 @@
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" />
   </a>
+
   <!-- Spring Boot -->
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
@@ -76,10 +81,6 @@
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  </a>
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40" />
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
@@ -98,6 +99,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img alt="Arthur’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Braganca1&theme=dark&show_icons=true&count_private=true" />
-  <img alt="Top Languages"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braganca1&theme=dark&layout=compact" />
+  <img alt="Arthur’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Braganca1&theme=dark&show_icons=true&count_private=true&hide=contribs,issues&line_height=31" />
+  <img alt="Top Languages"     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braganca1&theme=dark&layout=compact&line_height=31" />
 </div>
